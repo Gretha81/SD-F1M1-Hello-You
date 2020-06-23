@@ -1,1 +1,1 @@
-## Hier komen mijn opdrachten programmeerdersvaardigheden
+## Hier komen mijn opdrachten programmeervaardigheden

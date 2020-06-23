@@ -1,11 +1,11 @@
 # SD-F1M1-Hello-You
 
-## vul hier jouw naam in
-* ik heet **Mijn Naam**
+## Vul hier jouw naam in
+* Ik heet **Mijn Naam**
 
-## wat moet ik nog installeren?
+## Wat moet ik nog installeren en instellen?
 
-- [ ] git
+- [ ] Git
 - [ ] Python
 - [ ] Microsoft Teams
 - [ ] Outlook
